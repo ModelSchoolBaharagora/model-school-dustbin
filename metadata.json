@@ -1,0 +1,6 @@
+{
+  "name": "Smart Autonomous Dustbin 3D City",
+  "description": "Made in India 3D Smart City simulation featuring an autonomous municipal dustbin with road white-line tracking, 200m patrol cycles, citizen crowd trash deposits, and auto-halt obstacle avoidance for cows (gay/bail).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
